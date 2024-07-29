@@ -1,0 +1,30 @@
+.line_plot {
+    width:78%;
+    height:50%;
+    margin-left:0.5%;
+}
+.line {color: blue;
+    font-size: 14;
+}
+
+.scatterplot {
+    width:100%;
+    margin:auto;
+}
+.scatterplot2{
+    width:100%;
+    height: 400px;
+    margin:auto;
+}
+
+.pb_graph_aligner{
+    width: 50%;
+    display: inline-block;
+    
+}
+.pb_graph_aligner2{
+    width: 50%;
+    height:400px;
+    display: inline-block;
+    
+}

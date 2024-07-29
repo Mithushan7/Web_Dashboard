@@ -1,0 +1,25 @@
+.dropdown {
+    position:absolute
+    ;width:20.5%;
+    text-align: center;
+    top: 20.6%;
+    left: 78.75%;
+    padding: 0;
+}
+
+.dropdown_content{
+    font-size: 15; 
+    padding-left:10;
+    color:#0b0353;
+}
+
+.slider {width:75%;
+    margin-left: 5px;
+    margin-bottom:20px;
+}
+
+.year_check{
+    font-size: 18px;
+    text-align: center;
+    margin: 20px;
+}
